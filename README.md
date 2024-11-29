@@ -31,5 +31,11 @@ Upload the dataset: Ensure that you upload the dataset when prompted, as the not
 # Results
 The notebook will generate various plots that visualize the convergence of errors and weights, helping to evaluate the performance of the BPN model.
 
+# Contributors
+
+S SWARATHMICA
+
+SAHASRANAMAN PE
+
 # Note
 This model has been trained to predict only Uppercase S
